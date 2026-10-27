@@ -1,0 +1,178 @@
+[
+  {
+    "id": "g1-1",
+    "text": "密旨背面有两道刻痕，一长一短，沈知意当众没敢翻看，内容未明。",
+    "plantedAt": 1,
+    "dueBy": 20,
+    "paidAt": 11,
+    "importance": 2
+  },
+  {
+    "id": "g1-2",
+    "text": "九王府账册上批红的炭火银子批了但东西没见着，墨色很新，有人补批。",
+    "plantedAt": 1,
+    "dueBy": 10,
+    "paidAt": 11,
+    "importance": 2
+  },
+  {
+    "id": "g2-1",
+    "text": "老周头说白色碎末单吃无害，与方中另一味同用才坏，但未说出是哪一味。",
+    "plantedAt": 2,
+    "dueBy": 12,
+    "paidAt": 12,
+    "importance": 3
+  },
+  {
+    "id": "g2-2",
+    "text": "包药渣的纸是将军府采买戳子，将军府与药渣的关联未明。",
+    "plantedAt": 2,
+    "dueBy": 15,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g3-1",
+    "text": "沈知意要打听清楚承平十九年秋宫里到底出了什么事——食盒送进去送的是什么、经的谁的手、后来又怎么了，然后回来告诉萧衍。",
+    "plantedAt": 3,
+    "dueBy": 10,
+    "paidAt": 11,
+    "importance": 3
+  },
+  {
+    "id": "g4-1",
+    "text": "沈知意要在今日申时小章来取药渣之前先见到小章。",
+    "plantedAt": 4,
+    "dueBy": 5,
+    "paidAt": 5,
+    "importance": 2
+  },
+  {
+    "id": "g4-2",
+    "text": "沈知意要拿到太医院后堂周太医书案左手第二个抽屉里的药账。",
+    "plantedAt": 4,
+    "dueBy": 8,
+    "paidAt": 6,
+    "importance": 3
+  },
+  {
+    "id": "g5-1",
+    "text": "萧衍指出亏空在太医院每年按季拨的药资，沈知意需查清药资账目。",
+    "plantedAt": 5,
+    "dueBy": 10,
+    "paidAt": 12,
+    "importance": 2
+  },
+  {
+    "id": "g5-2",
+    "text": "周太医后日当值，沈知意需从周太医处查问药方与药渣封罐之事。",
+    "plantedAt": 5,
+    "dueBy": 8,
+    "paidAt": 8,
+    "importance": 2
+  },
+  {
+    "id": "g6-1",
+    "text": "夹墙里那只空药罐罐底有字，暗桩没敢动，需查清罐底写的是什么。",
+    "plantedAt": 6,
+    "dueBy": 11,
+    "paidAt": 11,
+    "importance": 2
+  },
+  {
+    "id": "g6-2",
+    "text": "手订药账缺承平十九年七月和十月两张，需从将军府画押旧路或承平十九年秋食盒线索中找回。",
+    "plantedAt": 6,
+    "dueBy": 12,
+    "paidAt": 10,
+    "importance": 3
+  },
+  {
+    "id": "g7-1",
+    "text": "沈知意要周太医交出承平十九年七月、十月两页账并画押，周太医尚未交出，此事未了。",
+    "plantedAt": 7,
+    "dueBy": 9,
+    "paidAt": 8,
+    "importance": 3
+  },
+  {
+    "id": "g7-2",
+    "text": "明日辰时前沈知意要把萧衍从榻上弄起来，灌一碗浓药，让他坐着应对宗人府定名。",
+    "plantedAt": 7,
+    "dueBy": 8,
+    "paidAt": 9,
+    "importance": 3
+  },
+  {
+    "id": "g8-1",
+    "text": "周太医供词中只写夹墙陶罐“现存”未写“可取”，罐底有字但暗桩没敢动，需查清罐底写的是什么并设法取出。",
+    "plantedAt": 8,
+    "dueBy": 11,
+    "paidAt": 11,
+    "importance": 2
+  },
+  {
+    "id": "g8-2",
+    "text": "周太医已报大理寺称九王府偷账页，大理寺可能来问，沈知意需应对。",
+    "plantedAt": 8,
+    "dueBy": 10,
+    "paidAt": 10,
+    "importance": 2
+  },
+  {
+    "id": "g9-1",
+    "text": "萧衍将铜钱缝入左襟，说等从朝上下来再说给谁看。",
+    "plantedAt": 9,
+    "dueBy": 12,
+    "paidAt": 10,
+    "importance": 2
+  },
+  {
+    "id": "g9-2",
+    "text": "沈知意需查清夹墙空药罐罐底的字，大理寺明天上门前要应对。",
+    "plantedAt": 9,
+    "dueBy": 11,
+    "paidAt": 11,
+    "importance": 3
+  },
+  {
+    "id": "g10-1",
+    "text": "周太医说太医院药库第三排架子底下砖是松的，藏有承平十九年七月、十月原账，沈知意需派人去取。",
+    "plantedAt": 10,
+    "dueBy": 12,
+    "paidAt": 11,
+    "importance": 2
+  },
+  {
+    "id": "g10-2",
+    "text": "萧衍出殿后问“药碗呢”，沈知意答在王府，萧衍说“回去喝”，药碗之事需兑现。",
+    "plantedAt": 10,
+    "dueBy": 11,
+    "paidAt": 11,
+    "importance": 1
+  },
+  {
+    "id": "g11-1",
+    "text": "王氏被押走前说“她知道”，推官转述王氏只说等九王来，沈知意判断王氏意在搅浑水拖时间，但王氏所指内情未明。",
+    "plantedAt": 11,
+    "dueBy": 20,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g11-2",
+    "text": "将军府偏院已空，王贵、二管家等人不见踪影，其下落及与药渣案关联未明。",
+    "plantedAt": 11,
+    "dueBy": 15,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g12-1",
+    "text": "老周头磨的刀是给萧衍刻瓷用的，但老周头为何半夜磨刀、是否另有隐情未明。",
+    "plantedAt": 12,
+    "dueBy": 20,
+    "paidAt": null,
+    "importance": 1
+  }
+]

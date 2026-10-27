@@ -1,0 +1,230 @@
+[
+  {
+    "key": "距宗人府定名",
+    "value": "6",
+    "unit": "天",
+    "fromChapter": 1
+  },
+  {
+    "key": "嫁妆箱子",
+    "value": "3",
+    "unit": "口",
+    "fromChapter": 1
+  },
+  {
+    "key": "萧衍喝剩的药",
+    "value": "小半碗",
+    "unit": "碗",
+    "fromChapter": 1
+  },
+  {
+    "key": "铜钱",
+    "value": "2",
+    "unit": "枚",
+    "fromChapter": 2
+  },
+  {
+    "key": "药渣纸包",
+    "value": "1",
+    "unit": "包",
+    "fromChapter": 2
+  },
+  {
+    "key": "枕下白色碎末纸包",
+    "value": "1",
+    "unit": "包",
+    "fromChapter": 2
+  },
+  {
+    "key": "承平十九年沈知意年龄",
+    "value": "7",
+    "unit": "岁",
+    "fromChapter": 3
+  },
+  {
+    "key": "承平十九年萧衍年龄",
+    "value": "11",
+    "unit": "岁",
+    "fromChapter": 3
+  },
+  {
+    "key": "沈知兰亲事预定时间",
+    "value": "明年开春",
+    "unit": "—",
+    "fromChapter": 3
+  },
+  {
+    "key": "宗人府来验剩余天数",
+    "value": "2",
+    "unit": "天",
+    "fromChapter": 4
+  },
+  {
+    "key": "萧衍身边剩余人数",
+    "value": "3",
+    "unit": "人",
+    "fromChapter": 4
+  },
+  {
+    "key": "萧衍身边已折人数",
+    "value": "9",
+    "unit": "人",
+    "fromChapter": 4
+  },
+  {
+    "key": "沈知意手中铜钱数",
+    "value": "2",
+    "unit": "枚",
+    "fromChapter": 4
+  },
+  {
+    "key": "药渣血帕分包数",
+    "value": "3",
+    "unit": "包",
+    "fromChapter": 4
+  },
+  {
+    "key": "王府年进项",
+    "value": "104.4",
+    "unit": "两",
+    "fromChapter": 5
+  },
+  {
+    "key": "已收回租契",
+    "value": "12",
+    "unit": "张",
+    "fromChapter": 5
+  },
+  {
+    "key": "周太医当值倒计时",
+    "value": "2",
+    "unit": "天",
+    "fromChapter": 5
+  },
+  {
+    "key": "手订药账抄页",
+    "value": "3",
+    "unit": "张",
+    "fromChapter": 6
+  },
+  {
+    "key": "药引单抄底",
+    "value": "1",
+    "unit": "张",
+    "fromChapter": 6
+  },
+  {
+    "key": "距定名",
+    "value": "1",
+    "unit": "夜",
+    "fromChapter": 6
+  },
+  {
+    "key": "手订药账已记笔数",
+    "value": "37",
+    "unit": "笔",
+    "fromChapter": 6
+  },
+  {
+    "key": "手订药账缺页",
+    "value": "2",
+    "unit": "张",
+    "fromChapter": 6
+  },
+  {
+    "key": "抄页",
+    "value": "3",
+    "unit": "张",
+    "fromChapter": 7
+  },
+  {
+    "key": "距定名礼",
+    "value": "1",
+    "unit": "夜",
+    "fromChapter": 7
+  },
+  {
+    "key": "堵巷人数",
+    "value": "2",
+    "unit": "人",
+    "fromChapter": 7
+  },
+  {
+    "key": "供词份数",
+    "value": 1,
+    "unit": "份",
+    "fromChapter": 8
+  },
+  {
+    "key": "黑血帕子",
+    "value": 1,
+    "unit": "块",
+    "fromChapter": 8
+  },
+  {
+    "key": "血帕残片",
+    "value": 3,
+    "unit": "片",
+    "fromChapter": 8
+  },
+  {
+    "key": "抄出账页",
+    "value": 3,
+    "unit": "张",
+    "fromChapter": 8
+  },
+  {
+    "key": "萧衍咳声数",
+    "value": "9",
+    "unit": "声",
+    "fromChapter": 9
+  },
+  {
+    "key": "二门到寝殿步数",
+    "value": "47",
+    "unit": "步",
+    "fromChapter": 9
+  },
+  {
+    "key": "缝入朝服证据数",
+    "value": "3",
+    "unit": "样",
+    "fromChapter": 9
+  },
+  {
+    "key": "铜钱数",
+    "value": "1",
+    "unit": "枚",
+    "fromChapter": 9
+  },
+  {
+    "key": "萧衍距二十五岁",
+    "value": "4",
+    "unit": "天",
+    "fromChapter": 10
+  },
+  {
+    "key": "距大限天数",
+    "value": "3",
+    "unit": "天",
+    "fromChapter": 11
+  },
+  {
+    "key": "萧衍咳血次数",
+    "value": "3",
+    "unit": "声",
+    "fromChapter": 11
+  },
+  {
+    "key": "沈知意数咳声天数",
+    "value": "12",
+    "unit": "天",
+    "fromChapter": 12
+  },
+  {
+    "key": "合卺盏刻字行数",
+    "value": "12",
+    "unit": "行",
+    "fromChapter": 12
+  }
+]
